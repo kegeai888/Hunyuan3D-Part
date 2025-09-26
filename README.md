@@ -1,4 +1,4 @@
-# ⚡ Hunyuan3D-Part RTX 4090 GPU加速版
+# ⚡ Hunyuan3D-Part RTX GPU加速版
 
 > 🚀 AI驱动的智能3D模型分析工具 | 专为RTX 4090优化的GPU加速版本
 
@@ -53,7 +53,12 @@ Hunyuan3D-Part是一个基于AI的智能3D模型分析工具，集成了P3-SAM�
 │ 启动时间        │ ~120秒   │ ~30秒       │ -75%        │
 └─────────────────┴──────────┴─────────────┴─────────────┘
 ```
+### 运行界面
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/212292-534604672-jNFlKxHXtNAe9ajsTuWE.png)
 
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/212292-151565660-X366SOSxiTXUPH48ta46.png)
+
+![image.png](https://codewithgpu-image-1310972338.cos.ap-beijing.myqcloud.com/212292-517232041-j5siPTudtl9R4tQFGwQV.png)
 ## 🛠️ 安装与配置
 
 ### 系统要求
